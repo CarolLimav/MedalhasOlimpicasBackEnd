@@ -19,7 +19,7 @@ Este projeto visa o desenvolvimento de um sistema web completo que permite aos u
 # Tecnologias Utilizadas
 
 # Backend 
--Framework: Spring Boot
+- Framework: Spring Boot
 - Banco de Dados: PostgreSQL
 - Mensageria: RabbitMQ
 
