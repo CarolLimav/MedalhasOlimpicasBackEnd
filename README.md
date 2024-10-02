@@ -26,4 +26,4 @@ Este projeto visa o desenvolvimento de um sistema web completo que permite aos u
 # Frontend
 - Framework: React.js
 - Ferramentas de Estilo: CSS/Bootstrap
-- Repositório para acesso ao códido do BackEnd: https://github.com/CarolLimav/MedalhasOlimpicasFrontEnd
+- Repositório para acesso ao código do BackEnd: https://github.com/CarolLimav/MedalhasOlimpicasFrontEnd
